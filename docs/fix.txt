@@ -1,0 +1,1 @@
+KoreanFilter.isAlphaNumChar -> 91 ~ 96 부분은 기호라 제외
